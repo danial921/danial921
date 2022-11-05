@@ -3,10 +3,10 @@
 </div>
 
 <div id="badges" align="center">
-  <img src="./src/Linkedin.svg" alt="LinkedIn Badge"/>
-  <img src="./src/Instagram.svg" alt="Twitter Badge"/>
-  <img src="./src/Facebook.svg" alt="Youtube Badge"/>
-  <img src="./src/Email.svg" alt="Twitter Badge"/>
+  <img src="./src/Linkedin.svg" alt="LinkedIn Badge" href ="https://www.linkedin.com/in/danial-farros-maulana-2a46b7212/"/>
+  <img src="./src/Instagram.svg" alt="Instagram Badge" href="https://www.instagram.com/danialfarrosmaulana/"/>
+  <img src="./src/Facebook.svg" alt="Youtube Badge" href="https://www.facebook.com/danialfarros.maulana/"/>
+  <img src="./src/Email.svg" alt="Twitter Badge" href="href=mailto:<nowiki>agentavery@sample.com?subject=hello danial"/>
 </div>
 </div>
 
@@ -20,7 +20,7 @@ Show ❤ by giving ⭐ to my Repositories, at least your star could make someone
 <h1>
   Tech stack 🛠
 </h1>
-<div style="display: inline-block">
+<div align="center" style="display: inline-block">
   <img src="./src/Logohtml5.svg" width="100px" style="margin: 10px">
 <img src="./src/LogoCSS.svg" width="100px" style="margin: 10px">
 <img src="./src/LogoKotlin.svg" width="100px" style="margin: 10px">
@@ -53,6 +53,7 @@ Show ❤ by giving ⭐ to my Repositories, at least your star could make someone
 <h1>
   Github achievement 📈
 </h1>
+
 <div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=nord&margin-w=15&margin-h=15&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
