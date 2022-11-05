@@ -3,10 +3,18 @@
 </div>
 
 <div id="badges" align="center">
-  <img src="./src/Linkedin.svg" alt="LinkedIn Badge" href ="https://www.linkedin.com/in/danial-farros-maulana-2a46b7212/"/>
-  <img src="./src/Instagram.svg" alt="Instagram Badge" href="https://www.instagram.com/danialfarrosmaulana/"/>
-  <img src="./src/Facebook.svg" alt="Youtube Badge" href="https://www.facebook.com/danialfarros.maulana/"/>
-  <img src="./src/Email.svg" alt="Twitter Badge" href="href=mailto:<nowiki>agentavery@sample.com?subject=hello danial"/>
+  <a href ="https://www.linkedin.com/in/danial-farros-maulana-2a46b7212/">
+    <img src="./src/Linkedin.svg" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/danialfarrosmaulana/">
+  <img src="./src/Instagram.svg" alt="Instagram Badge" />
+  </a>
+  <a href="https://www.facebook.com/danialfarros.maulana/">
+  <img src="./src/Facebook.svg" alt="Youtube Badge"/>
+  </a>
+  <a href="mailto:<nowiki>agentavery@sample.com?subject=hello danial">
+  <img src="./src/Email.svg" alt="Twitter Badge"/>
+  </a>
 </div>
 </div>
 
@@ -39,15 +47,13 @@ Show ❤ by giving ⭐ to my Repositories, at least your star could make someone
 </div>
 
 <h1>
+
   Github Statistics 📈
 </h1>
+
 <div align="center"> 
-     <a href="">
       <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=danial921&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
-    </a>
-    <a href="">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danial921&theme=react&line_height=40&hide=css"/>
-    </a>
 </div
 
 <h1>
